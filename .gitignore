@@ -8,7 +8,6 @@ app/storage/
 # Laravel 5 & Lumen specific
 bootstrap/cache/
 storage/
-tests/
 .env.*.php
 .env.php
 .env.example
